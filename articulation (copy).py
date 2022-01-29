@@ -1,8 +1,6 @@
 import sys
 sys.setrecursionlimit(10**6)
 
-"Checking if git works fine"
-
 class Solution:
     
     #Function to return Breadth First Traversal of given graph.
